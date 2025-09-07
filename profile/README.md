@@ -4,7 +4,3 @@ FormTheta is an AI-native data intake and insights platform built for the future
 Our platform doesn’t stop at collection — it transforms raw inputs into actionable intelligence through summaries, trends, and insights. With FormTheta, organizations move beyond gathering data to making smarter, faster decisions.
 
 👉 FormTheta: Beyond Forms. Adaptive Intelligence.
-
-### [Website](https://formtheta.com)
-### [Linkedin](https://www.linkedin.com/company/formtheta)
-### [Instagram](https://www.instagram.com/formtheta/)
